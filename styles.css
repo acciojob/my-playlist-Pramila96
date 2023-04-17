@@ -5,9 +5,13 @@ a{
 }
 body{
 	background-color:#cccccc;
-	
+	text-decoration:none;
+	text-align:center;
 }
-h1{
+ul{
+	text-align:start;
+}
+h2{
 	text-align:center;
 }
 h3{
