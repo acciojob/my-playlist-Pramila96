@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+
+a{
+	text-decoration:none;
+}
+body{
+	background-color:#cccccc;
+	
+}
+h1{
+	text-align:center;
+}
+h3{
+	text-align:center;
+}
+.player_one{
+	background-color:white;
+}
+.player_two{
+	background-color:white;
+	display:inline-block;
+	margin-left:120px;
+	margin-right:100px;
+	
+	vertical-align:middle;
+	//text-align:center;
+	//justify-content:center;
+}
