@@ -19,13 +19,15 @@ h3{
 }
 .player_one{
 	background-color:white;
+	
+	border-radius:10px;
 }
 .player_two{
 	background-color:white;
 	display:inline-block;
 	margin-left:120px;
 	margin-right:100px;
-	
+	border-radius:10px;
 	vertical-align:middle;
 	//text-align:center;
 	//justify-content:center;
